@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "同担☆拒否",
+  "base_artist": "桃鈴ねね",
+  "createdAt": "2025-12-23T02:52:02.786263Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "同担☆拒否",
+      "artist": "HoneyWorks feat. ちゅーたん(CV:早見沙織)",
+      "has_synced": true,
+      "path": "select/01_同担☆拒否_HoneyWorks_feat._ちゅーたん(CV_早見沙織).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "同担☆拒否 (feat. ちゅーたん(CV:早見沙織))",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/02_同担☆拒否_(feat._ちゅーたん(CV_早見沙織))_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "同担☆拒否",
+      "artist": "HoneyWorks feat. ちゅーたん(CV:早見沙織)",
+      "has_synced": true,
+      "path": "select/03_同担☆拒否_HoneyWorks_feat._ちゅーたん(CV_早見沙織).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "同担☆拒否 (feat.ちゅーたん)",
+      "artist": "HoneyWorks feat.ちゅーたん(CV.早見沙織)",
+      "has_synced": true,
+      "path": "select/04_同担☆拒否_(feat.ちゅーたん)_HoneyWorks_feat.ちゅーたん(CV.早見沙織).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "同担☆拒否",
+      "artist": "HoneyWorks feat.かぴ",
+      "has_synced": true,
+      "path": "select/05_同担☆拒否_HoneyWorks_feat.かぴ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "同担☆拒否 (feat. かぴ)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/06_同担☆拒否_(feat._かぴ)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "同担☆拒否",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/07_同担☆拒否_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "同担☆拒否",
+      "artist": "HoneyWorks feat.ちゅーたん",
+      "has_synced": true,
+      "path": "select/08_同担☆拒否_HoneyWorks_feat.ちゅーたん.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "同担☆拒否",
+      "artist": "桃鈴ねね",
+      "has_synced": false,
+      "path": "select/pl_01_同担☆拒否_桃鈴ねね.txt"
+    }
+  ]
+}
