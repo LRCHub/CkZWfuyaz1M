@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "同担☆拒否",
   "base_artist": "桃鈴ねね",
-  "createdAt": "2025-12-23T02:52:28.217926Z",
+  "createdAt": "2025-12-29T06:00:28.693406Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -67,6 +67,14 @@
       "artist": "HoneyWorks feat.ちゅーたん",
       "has_synced": true,
       "path": "select/08_同担☆拒否_HoneyWorks_feat.ちゅーたん.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "同担☆拒否 feat. ちゅーたん（CV：早見沙織）／HoneyWorks",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/09_同担☆拒否_feat._ちゅーたん(CV_早見沙織)_HoneyWorks_HoneyWorks.lrc"
     },
     {
       "id": "petitlyrics_1",
